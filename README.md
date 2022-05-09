@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @TreasureOjeamiren
+- 👀 I’m interested in Tech...
+- 🌱 I’m currently learning Back end developer...  
+- 📫 How to reach me 08132492692 via WhatsApp...
+
+<!---
+TreasureOjeamiren/TreasureOjeamiren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
